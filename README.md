@@ -1,3 +1,5 @@
+<link href="https://github.com/CoolDisk/CoolDisk/main/styles.css">
+
 <h1 id="title">
   Hello, guys!
 </h1>

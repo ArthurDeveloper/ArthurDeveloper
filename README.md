@@ -1,4 +1,4 @@
-<link href="https://github.com/CoolDisk/CoolDisk/main/styles.css">
+<link href="https://github.com/CoolDisk/CoolDisk/blob/main/styles.css">
 
 <h1 id="title">
   Hello, guys!

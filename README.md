@@ -1,4 +1,4 @@
-<link href="https://github.com/CoolDisk/CoolDisk/blob/main/styles.css">
+<style> #title { color: blue } </style>
 
 <h1 id="title">
   Hello, guys!

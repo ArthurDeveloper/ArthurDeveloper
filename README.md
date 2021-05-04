@@ -1,4 +1,4 @@
-<h1 style="color: blue">
+<h1 style="color: blue;">
   Hello, guys!
 </h1>
 

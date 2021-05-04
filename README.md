@@ -1,6 +1,4 @@
-<style> #title { color: blue } </style>
-
-<h1 id="title">
+<h1 style="color: blue">
   Hello, guys!
 </h1>
 

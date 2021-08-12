@@ -19,7 +19,7 @@ I'm a programming student who wants to learn more about web development, game de
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdeveloper&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ArthurDeveloper/ArthurDeveloper/blob/output/github-contribution-grid-snake.svg)
 
 ```js
 const skills = {

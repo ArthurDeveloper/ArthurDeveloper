@@ -11,7 +11,7 @@ I'm a programming student who wants to learn more about web development, game de
 ### Portfolio (in development)
 - <https://arthur-devs-portfolio.vercel.app/>
 
-![profile-picture](https://github.com/arthurdeveloper.png)
+![pfp](https://avatars.githubusercontent.com/u/73297053?v=4)
 
 <div>
   <a href="https://github.com/arthurdeveloper">

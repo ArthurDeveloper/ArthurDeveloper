@@ -1,4 +1,4 @@
-# Hello, guys!
+# Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, guys!
 
 I'm a programming student who wants to learn more about web development, game development and cybersecurity
 

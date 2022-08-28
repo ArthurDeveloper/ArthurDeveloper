@@ -1,17 +1,11 @@
-# Hello, guys!
- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px">
+# Hello, guys! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="48px">
  
- ​![​c633c20ede82f0e0ced7d570dbe3a1f3​](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-I'm a programming student who wants to learn more about web development, game development and cybersecurity
+I'm a web developer with more than 2 years of experience with technologies such as javascriptm typescript, reactjs and the javascript ecossystem in general.
 
 ### Areas
 
 - Web development 🕸️
 - Game development 🎮
-- Studying cybersecurity 🔒
-
-### Portfolio (in development)
-- <https://arthur-devs-portfolio.vercel.app/>
 
 ![pfp](https://avatars.githubusercontent.com/u/73297053?v=4)
 
@@ -36,13 +30,16 @@ const skills = {
   ],
   
   'databases': [
-    'MySQL',
+    'PostgreSQL',
+  ],
+  
+  'BaaS': [
     'Firebase'
   ],
   
   'other': [
     'Git/Github',
-    'UI/UX'
+    'UI/UX',
   ]
 }
 ```

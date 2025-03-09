@@ -1,6 +1,6 @@
 # Hello, guys! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="48px">
  
-I'm a web developer with more than 2 years of experience with technologies such as javascriptm typescript, reactjs and the javascript ecossystem in general.
+I'm a web developer with more than 4 years of experience with technologies such as javascript, typescript, reactjs and the javascript ecossystem in general.
 
 ### Areas
 
